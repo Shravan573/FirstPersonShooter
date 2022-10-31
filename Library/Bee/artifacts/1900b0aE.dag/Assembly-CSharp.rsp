@@ -359,6 +359,7 @@
 "Assets/Scripts/Interactable/Keycard.cs"
 "Assets/Scripts/InteractionEvents.cs"
 "Assets/Scripts/Player/InputManager.cs"
+"Assets/Scripts/Player/PlayerHealth.cs"
 "Assets/Scripts/Player/PlayerInteract.cs"
 "Assets/Scripts/Player/PlayerLook.cs"
 "Assets/Scripts/Player/PlayerMotor.cs"

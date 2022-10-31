@@ -58,17 +58,18 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player\PlayerUI.cs" />
     <Compile Include="Assets\Scripts\Interactable\AnimateCube.cs" />
+    <Compile Include="Assets\Scripts\EventOnlyInteractable.cs" />
     <Compile Include="Assets\Inputs\PlayerInput.cs" />
     <Compile Include="Assets\Scripts\Interactable\Keycard.cs" />
     <Compile Include="Assets\Scripts\Interactable\CollectCube.cs" />
+    <Compile Include="Assets\Scripts\InteractionEvents.cs" />
     <Compile Include="Assets\Scripts\Player\InputManager.cs" />
     <Compile Include="Assets\Scripts\Interactable\ChangeColorCube.cs" />
     <Compile Include="Assets\Scripts\Interactable.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMotor.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerLook.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerInteract.cs" />
-    <Compile Include="Assets\Scripts\InteractionEvents.cs" />
-    <Compile Include="Assets\Scripts\EventOnlyInteractable.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
